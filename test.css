@@ -80,3 +80,21 @@ img {
   padding-top: 100px;
 }
 
+#btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #f2c4ce;
+  font-size: 20px;
+  background: #757575;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: fixed;
+  float: left;
+}
+
+.btn:hover {
+  text-decoration: none;
+} 
+
