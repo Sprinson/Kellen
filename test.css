@@ -98,3 +98,13 @@ img {
   text-decoration: none;
 } 
 
+.loading { width:100px;
+    height: 100% 100%;
+    position: fixed;
+    top: 40%;
+    left: 40%;
+}
+#lightbox {
+  
+}
+

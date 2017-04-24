@@ -31,6 +31,13 @@ $(document).ready(function(){
     
   });
 
+  $(".loading").fadeOut(5000);
+  $("body").hide().fadeIn();
+
+  $("#bob").hide().fadeIn(6000);
+  
+  $(".mail").hide().fadeIn(6000);
+
 
 
 
